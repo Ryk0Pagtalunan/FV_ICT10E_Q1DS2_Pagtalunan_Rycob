@@ -1,0 +1,33 @@
+.container1{
+	background-color: #1c3e94;
+	width: 750px;
+	padding: 15px;
+	border: 5px solid #2566c2;
+	margin: 25px;
+    opacity: 0.9;
+}
+#button{
+    width: 200px;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/017/457/394/small_2x/simple-background-with-gradient-shape-green-vector.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+input{
+    color: white;
+    background-image: linear-gradient(#377dde, #32a852);
+    border-color: black;
+}
+button{
+    color: white;
+    background-image: linear-gradient(#377dde, #32a852);
+    border-color: black;
+}
+label{
+    color: whitesmoke;
+}
+#msgappear{
+    color: whitesmoke;
+}
